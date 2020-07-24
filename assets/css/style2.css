@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f7f7f7;
+    color: #495867;
+}
+
+.styled {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.cool {
+    color: #fe5f55;
+}
+
+img {
+    opacity: 0.65;
+}
